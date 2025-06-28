@@ -65,4 +65,4 @@ This project is a backend system replicating key features of a rental marketplac
 
 Below is a visual representation of the system's structure:
 
-![Features and Functionalities](/features_and_functionality.png)
+![Features and Functionalities](features_and_functionality.png)
